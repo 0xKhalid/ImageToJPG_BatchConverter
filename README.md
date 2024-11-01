@@ -19,8 +19,8 @@ A Python GUI tool for batch conversion of images in various formats (including H
 
 ## Usage
 1. **Clone the Repository**:
-   ```git clone https://github.com/0xKhalid/ImageToJPG_BatchConverter
-   cd ImageToJPG_BatchConverter.py```
+   ```git clone https://github.com/0xKhalid/ImageToJPG_BatchConverter```
+   then ```cd ImageToJPG_BatchConverter.py```
 
 2. **Run the Application**:
    ```python ImageToJPG_BatchConverter.py```
